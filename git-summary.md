@@ -1,3 +1,5 @@
+# Rangkuman Git Basic 
+
 Cara configurasi git
 	git config --global user.name "nama user"
 	git config --global user.email namaemail
@@ -5,9 +7,9 @@ Cara mengetahui configurasi git
 	git config --list
 
 1. Membuat Repositori
-	git init nama_proyek
+	\ngit init nama_proyek
 2. Melihat status git 
-	git status
+	\ngit status
 3. Membuat revisi
 	a. kondisi Modified ketika file ditambahkan ke dalam proyek
 	b. Membuat kondisi menjadi stagged
