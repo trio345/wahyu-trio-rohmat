@@ -11,7 +11,7 @@ Cara mengetahui configurasi git
 2. Melihat status git 
 	\ngit status
 3. Membuat revisi
-	a. kondisi Modified ketika file ditambahkan ke dalam proyek
+	\na. kondisi Modified ketika file ditambahkan ke dalam proyek
 	b. Membuat kondisi menjadi stagged
 		git add nama_file
 	c. Commited 
